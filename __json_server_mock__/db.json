@@ -53,5 +53,12 @@
       "organization": "物流组",
       "created": 1604989757139
     }
+  ],
+  "register": [
+    {
+      "username": "jira",
+      "password": "111111",
+      "id": 1
+    }
   ]
 }
